@@ -23,6 +23,7 @@
 | Project | What it is | Stack |
 |:---|:---|:---|
 | [**Truth or Terrain**](https://github.com/AnkithaThomas/HackAI-2026-Truth-or-Terrain) | Multiplayer geography guessing game where the clues might be lying. **1st Place, HackAI 2026.** | `React Native` `TypeScript` |
+| [**BeforeZero**](https://github.com/SJAryan/HackUTD26) | Winter storm outage response for medically vulnerable households. Checks in with residents over iMessage, ranks everyone by how much time they have left before backup runs out, and helps coordinators dispatch batteries and help. I owned the Photon iMessage integration. **HackUTD 2026.** | `React` `TypeScript` `SpacetimeDB` `Photon` |
 | [**TagIt**](https://github.com/acm-projects/TagIt) | Chrome extension that tames student email overload: AI summaries, priority tags, deadline extraction, Google Calendar sync, and a RAG chatbot over your inbox. **2nd Place, ACM Projects.** | `React` `Manifest V3` `MongoDB` `OAuth` `Gemini` |
 | [**Companion**](https://github.com/AnkithaThomas/companion) | Voice AI agent that checks in daily with elderly users and surfaces behavioral and cognitive signals over time. | `Hume EVI` `FastAPI` `Supabase` `React Native` |
 | **MCP Security Scanner** | Open-source scanner for Model Context Protocol servers, plus a labeled benchmark of vulnerable servers. Built with GDG UTD. *(Private)* | `Python` |
