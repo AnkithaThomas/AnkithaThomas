@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dce3d3,100:8fa382&height=6" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courgette&weight=400&size=40&duration=2500&pause=100000&color=6E8061&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Ankitha+Shaji+Thomas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courgette&weight=400&size=40&duration=1200&pause=100000&color=6E8061&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Ankitha+Shaji+Thomas" />
   <br/><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=18&duration=3000&pause=800&color=9A9389&center=true&vCenter=true&width=520&height=28&lines=I+build+AI+tools+that+solve+real+problems;RAG+%C2%B7+AI+agents+%C2%B7+full-stack+apps;CS+%40+UT+Dallas" />
 </p>
 
