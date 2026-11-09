@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courgette&weight=400&size=40&duration=1200&pause=100000&color=6E8061&center=true&vCenter=true&repeat=false&width=600&height=70&lines=Ankitha+Shaji+Thomas" />
-  <br/><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=18&duration=3000&pause=800&color=9A9389&center=true&vCenter=true&width=520&height=28&lines=Full+Stack+%C2%B7+Applied+AI+%C2%B7+Mentor;I+build+AI+applications.;Teaching+code+from+crayons+to+college.;CS+%40+UT+Dallas" />
+  <br/><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=400&size=18&duration=3000&pause=800&color=9A9389&center=true&vCenter=true&width=520&height=28&lines=Full+Stack+%C2%B7+Applied+AI+%C2%B7+Mentor;I+build+AI+applications;Teaching+code+from+crayons+to+college;CS+%40+UT+Dallas" />
 </p>
 
 <p align="center">
