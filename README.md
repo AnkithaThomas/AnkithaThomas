@@ -37,8 +37,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,vue,nuxtjs,tailwind,vite,fastapi,spring,nodejs,prisma,supabase,mongodb,docker,aws,git,vscode&perline=10" />
   <br/>
-  <img src="https://img.shields.io/badge/SpacetimeDB-F3F1EC?style=flat-square&labelColor=6E8061" />
-  <img src="https://img.shields.io/badge/Photon-F3F1EC?style=flat-square&labelColor=6E8061" />
+  <img src="https://img.shields.io/badge/SpacetimeDB-6E8061?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photon-6E8061?style=for-the-badge" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1f3a00,50:8fa382,100:0b1f3a00&height=2" width="100%"/>
