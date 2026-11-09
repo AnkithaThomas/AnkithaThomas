@@ -35,10 +35,7 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,vue,nuxtjs,tailwind,vite,fastapi,spring,nodejs,prisma,supabase,mongodb,docker,aws,git,vscode&perline=10" />
-  <br/>
-  <img src="icons/spacetimedb.svg" width="48" title="SpacetimeDB" alt="SpacetimeDB" />&nbsp;
-  <img src="icons/photon.svg" width="48" title="Photon" alt="Photon" />
+  <img src="icons/tech-stack.svg" alt="Python, TypeScript, JavaScript, Java, C++, React, Vue, Nuxt, Tailwind, Vite, FastAPI, Spring, Node.js, Prisma, Supabase, MongoDB, Docker, AWS, Git, VS Code, SpacetimeDB, Photon" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1f3a00,50:8fa382,100:0b1f3a00&height=2" width="100%"/>
